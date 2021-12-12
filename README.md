@@ -6,9 +6,9 @@
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/fernandobatista123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandobatista123&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobatista123&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/FernandoBatista123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoBatista123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBatista123&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <img align="center" alt="Fernando-Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
