@@ -19,6 +19,7 @@
   <img align="center" alt="Fernando-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-JS" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Fernando-GIT" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+  </div>
   
   ##
   
