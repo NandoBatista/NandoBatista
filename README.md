@@ -7,7 +7,7 @@
 
 <p align="space-between"> <br>
     <a href="https://github.com/nandobatista">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nandobatista&show_icons=true&theme=dracula&include_all_commits=true&icon_color=dracula" style="max-width:100%;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobatista&langs_count=10&layout=compact&theme=dracula" style="max-width:1000%;">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nandobatista&show_icons=true&theme=dracula&include_all_commits=true&icon_color=dracula" style="max-width:100%;"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobatista&langs_count=10&layout=compact&theme=dracula" style="max-width:1000%;">
       
 </p>   
     
