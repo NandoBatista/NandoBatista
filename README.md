@@ -1,4 +1,4 @@
-## Olá! eu sou o Fernando Batista
+## Olá! eu sou o Fernando Batista fascinado por Desenvolvimento Mobile🤳
 
 - 🔭 Atualmente estou buscando a primeira vaga como Dev. Android Jr.
 - 🌱 Estudando Android
