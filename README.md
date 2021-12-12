@@ -5,13 +5,11 @@
 - 😃 Meu maior objetivo nesse ramo é poder transformar vidas através da tecnologia
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/NandoBatista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandoBatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoBatista&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
+<p align="space-between"> <br>
+    <a href="https://github.com/nandobatista">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nandobatista&show_icons=true&theme=dracula&include_all_commits=true&icon_color=dracula" style="max-width:100%;"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobatista&langs_count=10&layout=compact&theme=dracula" style="max-width:1000%;">
+      
+</p>   
   
   <img align="center" alt="Fernando-Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Fernando-Kotlin" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
