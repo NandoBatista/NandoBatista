@@ -1,6 +1,6 @@
 ## Olá! eu sou o Fernando Batista fascinado por Desenvolvimento Mobile🤳
 
-- 🔭 Atualmente estou trabalhando como Dev. Android na MC1 - Win The Market.
+- 🔭 Atualmente estou trabalhando como Desenvolver Android Pleno.
 - 🌱 Estudando Android
 - 😃 Meu maior objetivo nesse ramo é poder transformar vidas através da tecnologia
 - 😄 Pronouns: ele/dele
