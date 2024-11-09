@@ -1,6 +1,6 @@
 ## Olá! eu sou o Fernando Batista fascinado por Desenvolvimento Mobile🤳
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Android Pleno.
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Android na CI&T.
 - 🌱 Estudando Android
 - 😃 Meu maior objetivo nesse ramo é poder transformar vidas através da tecnologia
 - 😄 Pronouns: ele/dele
